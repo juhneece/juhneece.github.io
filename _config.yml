@@ -1,0 +1,26 @@
+# Dependencies
+gems:
+  - jekyll-sitemap
+highlighter:         pygments
+markdown:            redcarpet
+
+# Setup
+baseurl:             ''
+description:         "Janice Bacuetes lives in New York City and does customer experience work at Rent The Runway. She's originally from San Diego, went to school at UCSB, and used to work at Yelp, Clover, and Buddy Media."
+permalink:           pretty
+relative_permalinks: true
+sass:
+  style:             compressed
+tagline:             Janice Bacuetes' website
+title:               juhneece.com
+url:                 http://juhneece.com
+
+# About
+author:
+  email:             jbacuetes@gmail.com
+  name:              Janice Bacuetes
+  social_urls:
+    facebook:        https://www.facebook.com/janice.bacuetes
+    github:          https://github.com/juhneece
+    linkedin:        https://www.linkedin.com/in/jbacuetes
+    twitter:         https://twitter.com/jbacuetes
