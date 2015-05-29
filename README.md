@@ -5,7 +5,7 @@
 - [ ] do i need an amazon s3 bucket for files.juhneece.com?
 - [ ] do i want to set up mail at hello@juhneece.com…
 - [ ] or register bacuet.es domain and have janice@bacuet.es?
-
+- [ ] add site to WMT (search console)
 - [ ] rewrite about.md
 - photos
   - [ ] for homepage
