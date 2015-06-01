@@ -135,8 +135,8 @@ a {
   height: 100%;
   padding: 100px 0;
   text-align: center;
-  background: url(../img/home-tall.jpg) no-repeat top center scroll;
   color: $home-text-color;
+  background: url(../img/home-tall.jpg) no-repeat center right scroll;
   background-color: black;
   @include background-cover;
   .intro-body {
