@@ -2,12 +2,12 @@
 ---
 
 @import "mixins";
+@import "variables";
 
 body {
   width: 100%;
   height: 100%;
   @include serif;
-  color: white;
   background-color: black;
 }
 
@@ -22,6 +22,7 @@ h3,
 h4,
 h5,
 h6 {
+  color: $home-text-color;
   margin: 0 0 35px;
   text-transform: uppercase;
   @include sans-serif;
@@ -41,7 +42,7 @@ p {
 }
 
 a {
-  color: white;
+  color: $home-text-color;
   -webkit-transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
@@ -83,7 +84,7 @@ a {
     }
   }
   a {
-    color: white;
+    color: $home-text-color;
   }
   .nav {
     li {
@@ -135,8 +136,8 @@ a {
   height: 100%;
   padding: 100px 0;
   text-align: center;
-  color: white;
   background: url(../img/home-tall.jpg) no-repeat top center scroll;
+  color: $home-text-color;
   background-color: black;
   @include background-cover;
   .intro-body {
