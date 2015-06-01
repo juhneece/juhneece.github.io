@@ -3,51 +3,57 @@ layout: page
 style: page
 ---
 
-## Life
+Chances are my name poses a challenge for you, so to start us off on the right foot, here's a hint: *juh-neece buh-kweh-tiss*
 
-I narrowly missed being born in North Carolina, where most of my family lives, and instead grew up in Atlanta with a sister named [Rachel](https://www.facebook.com/profile.php?id=2717269). After a lifetime as an overprivileged and under-aware prep star at Pace Academy, I went to Vanderbilt University, where I did Economics, Chinese, Frisbee, and other general shenanigans. For a semester, I lived in Beijing. After school, I moved to New York to take my first job at Yelp. Later I moved to Phoenix, still with Yelp. Then back to NYC for a new job and with my girlfriend [Janice](https://www.facebook.com/janice.bacuetes) (*juh-neece*), with whom I now reside contentedly in South Williamsburg, on the East River.
+I grew up in San Diego. You can easily identify me as a West coast transplant by my calm demeanor.  My two older sisters are still in California with my adorable nephew & niece, Ethan & Zoë. On the other side of the globe, my parents have happily retired in the Philippines.
 
-<div id="map"></div>
+I studied Business Economics at the University of California, Santa Barbara. Since graduating, new opportunities and adventures have taken me from San Diego, to Los Angeles, San Francisco, Phoenix, and – most recently – New York, where I now live with my boyfriend Ben. We have an apartment on the Brooklyn side of the East River, in Williamsburg, where we can thankfully retreat from the daily hustle.
 
 ## Fun facts
 
-* never owned an iPhone
-* used to speak pretty good Mandarin Chinese
-* lives in Brooklyn, rides a fixed gear bicycle, and so what
-* can't understand why anyone likes baseball
-* proficient with banjos
-* been to Disneyland (twice), not Disneyworld
-* had a college radio show and played [this song](https://www.youtube.com/watch?v=U55hXetSKSQ) weirdly often
-* random celebrity sighting: <span id="celeb_sighting" style="display:none">Alec Baldwin</span>
+* Nicknames: Neece, J-Nice, JB
+* A sucker for surprises, I was once serenaded by a pink gorilla on Valentine's Day
+* I don't cuss, but will often say things like "dagnabbit" (not as a joke)
+* My sisters & I are all named after locally-famous Filipino actresses
+* My handwriting is so small and neat that people almost always mistake it for computer type
+* I've made two strangers take off their headphones while riding the subway so that I could compliment them on their shoes
+* I will always have time to watch Shawshank Redemption
+* Past Halloween costumes:
+  * Michael Jackson
+  * Noah
+  * Dora the Explorer
+  * Panda
+  * Chun Li from Streetfighter
+  * Hamster
+  * And [this guy](https://www.youtube.com/watch?v=BEtIoGQxqQs)
+
 
 ## Work
 
-In reverse order, I've worked at:
+Since March 2012, I've led the customer experience team at [Rent the Runway](https://www.renttherunway.com/) as the Director of Customer Insights. Prior to this, I worked at a few other startups:
 
-* [SeatGeek](https://seatgeek.com/), as Director of Customer Acquisition
-* [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media) (now part of the Salesforce Marketing Cloud), as a Business Intelligence Analyst
-* [Clover](https://www.clover.com/), as a Sales Operations Manager
-* [Yelp](http://www.yelp.com/nyc), as a CRM Administrator
+* [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media) (now part of the Salesforce Marketing Cloud), Account Executive
+* [Clover](https://www.clover.com/), Sales Manager
+* [Yelp](http://www.yelp.com/nyc), Sales Manager
 
-And although these jobs didn't make my [résumé (pdf)](http://files.clarkbk.com/resume.pdf) or my [LinkedIn profile]({{ author.social_urls.linkedin }}), I have also at various times earned a living as:
+You won't find the following jobs on my resume or my [LinkedIn](https://www.linkedin.com/in/jbacuetes
+) page, but I did my fair share of dabbling before entering the "real world". I've also worked as:
 
-* a dog walker
-* a grocery bagger
-* a Methodist wedding acolyte
+* A bank teller
+* A server in a retirement home
+* A receptionist in a martial arts studio
+* An office assistant at a garage door installation company
+* A flower delivery girl
+* A librarian's assistant (a.k.a. a putter-back of books)
+
+## Hobbies
+When I'm not exploring the outdoors on a hike, hitting the pavement with my trusty bike, or trying out a new restaurant, I love to get crafty and make handmade cards.
+
+Here's a taste:
+
 
 ## Pictures
 
-Sometimes I go place and take photos. When that happens, I usually put the photos [on Google+](https://plus.google.com/photos/101356415299525876294/albums), of all places. Here's a taste:
+My life in snapshots:
 
 {% include gallery.html %}
-
-## This Site
-
-I made this website. You can fork it, star it, or just plain poke around it [on GitHub](https://github.com/clarkbk/clarkbk.github.io). Here are some of the things that I used:
-
-* [Namecheap](https://www.namecheap.com) for domain registration
-* [CloudFlare](https://www.cloudflare.com) for fast, free DNS
-* [GitHub Pages](https://pages.github.com/) for simple, free web hosting
-* [Jekyll](https://github.com/jekyll/jekyll) for easy templating and markdown things
-* [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) and [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) themes from [Start Bootstrap](http://startbootstrap.com/) for "visually enhancing my personal brand"
-* [Blueimp Gallery](https://github.com/blueimp/Gallery) for the slideshow up there
