@@ -7,7 +7,7 @@ Chances are my name poses a challenge for you, so to start us off on the right f
 
 I grew up in San Diego. You can easily identify me as a West coast transplant by my calm demeanor.  My two older sisters are still in California with my adorable nephew & niece, Ethan & Zoë. On the other side of the globe, my parents have happily retired in the Philippines.
 
-I studied Business Economics at the University of California, Santa Barbara. Since graduating, new opportunities and adventures have taken me from San Diego, to Los Angeles, San Francisco, Phoenix, and – most recently – New York, where I now live with my boyfriend Ben. We have an apartment on the Brooklyn side of the East River, in Williamsburg, where we can thankfully retreat from the daily hustle.
+I studied Business Economics at the University of California, Santa Barbara. Since graduating, new opportunities and adventures have taken me from San Diego, to Los Angeles, San Francisco, Phoenix, and – most recently – New York, where I now live with my boyfriend [Ben](http://clarkbk.com). We have an apartment on the Brooklyn side of the East River, in Williamsburg, where we can thankfully retreat from the daily hustle.
 
 ## Fun facts
 
@@ -17,7 +17,7 @@ I studied Business Economics at the University of California, Santa Barbara. Sin
 * My sisters & I are all named after locally-famous Filipino actresses
 * My handwriting is so small and neat that people almost always mistake it for computer type
 * I've made two strangers take off their headphones while riding the subway so that I could compliment them on their shoes
-* I will always have time to watch Shawshank Redemption
+* I always have time to watch *Shawshank Redemption*
 * Past Halloween costumes: <span id="halloween_costume" style="display:none">Michael Jackson</span>
 
 
@@ -25,7 +25,7 @@ I studied Business Economics at the University of California, Santa Barbara. Sin
 
 Since March 2012, I've led the customer experience team at [Rent the Runway](https://www.renttherunway.com/) as the Director of Customer Insights. Prior to this, I worked at a few other startups:
 
-* [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media) (now part of the Salesforce Marketing Cloud), Account Executive
+* [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media) (acquired by Salesforce.com), Inside Sales Executive
 * [Clover](https://www.clover.com/), Sales Manager
 * [Yelp](http://www.yelp.com/nyc), Sales Manager
 
