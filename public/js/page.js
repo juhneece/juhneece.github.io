@@ -53,51 +53,36 @@ $(document).ready(function() {
 });
 
 // dumb celebrity sighting thing
-var celeb_sightings = [
-  'Alec Baldwin',
-  'Donald Glover',
-  'Hugh Jackman',
-  'Ice-T',
-  'James Murphy',
-  'Larry King',
-  'Nicole Kidman',
-  'Olivia Wilde',
-  'Robert Pattinson',
-  'Samira Wiley'
+var halloween_costumes = [
+  'Michael Jackson',
+  'Noah',
+  'Dora the Explorer',
+  'Panda',
+  'Chun Li (Streetfighter)',
+  'Hamster',
+  'Afro Ninja'
 ];
 $(document).ready(function() {
-  function randCeleb() {
-    var celeb_sightings = [
-      'Alec Baldwin',
-      'Donald Glover',
-      'Hugh Jackman',
-      'Ice-T',
-      'James Murphy',
-      'Larry King',
-      'Nicole Kidman',
-      'Olivia Wilde',
-      'Robert Pattinson',
-      'Samira Wiley'
-    ];
-    return celeb_sightings[Math.floor(Math.random() * celeb_sightings.length)];
+  function randCostume() {
+    return halloween_costumes[Math.floor(Math.random() * halloween_costumes.length)];
   };
 
-  function replaceCeleb() {
-    span = $("#celeb_sighting");
-  celeb = randCeleb();
-  oldCeleb = span.html();
-  if (celeb == oldCeleb) {
+  function replaceCostume() {
+    span = $("#halloween_costume");
+  costume = randCostume();
+  oldCostume = span.html();
+  if (costume == oldCostume) {
     return;
   }
   duration = 500;
   span.fadeOut(duration, function() {
-    span.html(celeb);
+    span.html(costume);
     span.fadeIn(duration);
   });
   };
 
-  replaceCeleb();
-  var derp = setInterval(replaceCeleb, 5000);
+  replaceCostume();
+  var derp = setInterval(replaceCostume, 5000);
 });
 
 // google map

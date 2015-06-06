@@ -18,14 +18,7 @@ I studied Business Economics at the University of California, Santa Barbara. Sin
 * My handwriting is so small and neat that people almost always mistake it for computer type
 * I've made two strangers take off their headphones while riding the subway so that I could compliment them on their shoes
 * I will always have time to watch Shawshank Redemption
-* Past Halloween costumes:
-  * Michael Jackson
-  * Noah
-  * Dora the Explorer
-  * Panda
-  * Chun Li from Streetfighter
-  * Hamster
-  * And [this guy](https://www.youtube.com/watch?v=BEtIoGQxqQs)
+* Past Halloween costumes: <span id="halloween_costume" style="display:none">Michael Jackson</span>
 
 
 ## Work
