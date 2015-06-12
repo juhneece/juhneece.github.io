@@ -25,11 +25,11 @@ I studied Business Economics at the University of California, Santa Barbara. Sin
 
 Since March 2012, I've led the customer experience team at [Rent the Runway](https://www.renttherunway.com/) as the Director of Customer Insights. Prior to this, I worked at a few other startups:
 
-* [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media) (acquired by Salesforce.com), Inside Sales Executive
-* [Clover](https://www.clover.com/), Sales Manager
+* [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media) (acquired by Salesforce.com), Account Executive
+* [Clover](https://www.clover.com/), Director of Sales
 * [Yelp](http://www.yelp.com/nyc), Sales Manager
 
-You won't find the following jobs on my resume or my [LinkedIn](https://www.linkedin.com/in/jbacuetes
+You won't find the following jobs on my résumé or my [LinkedIn](https://www.linkedin.com/in/jbacuetes
 ) page, but I did my fair share of dabbling before entering the "real world". I've also worked as:
 
 * A bank teller
