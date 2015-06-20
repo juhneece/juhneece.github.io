@@ -52,7 +52,7 @@ $(document).ready(function() {
   }
 });
 
-// dumb celebrity sighting thing
+// silly halloween costume thing
 var halloween_costumes = [
   'Michael Jackson',
   'Noah',
