@@ -43,10 +43,8 @@ You won't find the following jobs on my résumé or my [LinkedIn](https://www.li
 
 When I'm not exploring the outdoors on a hike, hitting the pavement with my trusty road bike, or trying out a new restaurant, I love to get crafty. Check out some of the cards I've made for [the Winter holidays](https://photos.google.com/album/AF1QipNh68-UT_PjEO8PAodeH7g_PKWGSBZsDS1ckrYi) and [Valentine's Day](https://photos.google.com/album/AF1QipO4jn7SCzXtLP8_HFx1EVKuEnTtaX0ubm2Klpnc)!
 
-<!--
 ## Pictures
 
 My life in snapshots:
 
 {% include gallery.html %}
--->
