@@ -3,8 +3,7 @@
 - [ ] add google analytics tracking to head.html
 - [ ] add site to WMT (search console)
 - [ ] rewrite about.md
-- photos
-  - [ ] for carousel on about page
+- [ ] photos for carousel on about page
 
 ## Updating the website
 
