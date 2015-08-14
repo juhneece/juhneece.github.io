@@ -5,7 +5,7 @@ style: page
 
 Chances are my name poses a challenge for you, so to start us off on the right foot, here's a hint: *juh-neece buh-kweh-tiss*
 
-I'm passionate about making things from scratch, whether on the job, [in the kitchen](https://goo.gl/photos/NZVf4hHpfbPq4iJF9), or [at the craft table](https://photos.google.com/album/AF1QipNh68-UT_PjEO8PAodeH7g_PKWGSBZsDS1ckrYi).
+I'm passionate about making things from scratch, whether on the job, [in the kitchen](https://goo.gl/photos/NZVf4hHpfbPq4iJF9), or [at the craft table](https://goo.gl/photos/M1Sj6kS3YoDMAKj68).
 
 In the past, I've worked at startups like [Yelp](http://www.yelp.com/nyc), [Clover](https://www.clover.com/), [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media), and [Rent the Runway](https://www.renttherunway.com/). In August 2015 I was thrilled to start my next chapter at [Managed by Q](https://www.managedbyq.com/) as Sr. Director of Account Management.
 
