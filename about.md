@@ -7,7 +7,7 @@ Chances are my name poses a challenge for you, so to start us off on the right f
 
 I'm passionate about making things from scratch, whether on the job, [in the kitchen](https://goo.gl/photos/NZVf4hHpfbPq4iJF9), or [at the craft table](https://photos.google.com/album/AF1QipNh68-UT_PjEO8PAodeH7g_PKWGSBZsDS1ckrYi).
 
-As the Director of Customer Insights at [Rent the Runway](https://www.renttherunway.com/), I've built the team up from 6 people to 65 and founded a culture of delivering "extra mile" experiences. I have also led at other startups like [Yelp](http://www.yelp.com/nyc), [Clover](https://www.clover.com/), and [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media).
+In August 2015 I was thrilled to join [Managed by Q](https://www.managedbyq.com/) as Sr. Director of Account Management. I have also led at other startups like [Yelp](http://www.yelp.com/nyc), [Clover](https://www.clover.com/), [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media), and [Rent the Runway](https://www.renttherunway.com/).
 
 Between home and work, I'm always on the lookout for my next [adventure](https://youtu.be/84EH70dZpok?t=1m06s).
 
