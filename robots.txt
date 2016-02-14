@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /404/
 
-Sitemap: http://juhneece.com/sitemap.xml
+Sitemap: https://juhneece.com/sitemap.xml

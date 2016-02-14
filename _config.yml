@@ -1,19 +1,16 @@
 # Dependencies
 gems:
   - jekyll-sitemap
-highlighter:         pygments
-markdown:            redcarpet
 
 # Setup
 baseurl:             ''
 description:         "Janice Bacuetes lives in New York City and leads account management at Managed by Q. She's originally from San Diego, went to school at UCSB, and used to work at Rent the Runway, Yelp, Clover, and Buddy Media."
 permalink:           pretty
-relative_permalinks: true
 sass:
   style:             compressed
 tagline:             Janice Bacuetes' website
 title:               juhneece.com
-url:                 http://juhneece.com
+url:                 https://juhneece.com
 
 # About
 author:

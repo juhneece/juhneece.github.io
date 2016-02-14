@@ -1,4 +1,6 @@
 ---
+title: Janice Bacuetes - About
+h1: Hi, I'm Janice
 layout: page
 style: page
 ---
