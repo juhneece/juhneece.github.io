@@ -13,9 +13,20 @@ In May 2017 on Memorial Day weekend, I married [Ben Clark](https://clarkbk.com/)
 
 Ben and I love to take one big trip a year. We've traveled to the Philippines, Istanbul, Maldives, Patagonia, Tanzania, and Rwanda.
 
+
 ## Work
 
 I've worked at startups like [Yelp](http://www.yelp.com/nyc), [Clover](https://www.clover.com/), [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media), [Rent the Runway](https://www.renttherunway.com/), and [Managed by Q](https://www.managedbyq.com/). I'm currently on the lookout for my next great adventure.
+
+You won't find the following jobs on my résumé or my [LinkedIn profile](https://www.linkedin.com/in/jbacuetes
+), but I did my fair share of dabbling before entering the "real world." I've also worked as:
+
+* A bank teller
+* A server in a retirement home
+* A receptionist in a martial arts studio
+* An office assistant at a garage door installation company
+* A flower delivery girl
+* A librarian's assistant (a.k.a. a putter-back of books)
 
 
 ## Fun facts
@@ -28,15 +39,6 @@ I've worked at startups like [Yelp](http://www.yelp.com/nyc), [Clover](https://w
 * I always have time to watch *Shawshank Redemption*
 * Past Halloween costumes: <span id="halloween_costume" style="display:none">Michael Jackson</span>
 
-You won't find the following jobs on my résumé or my [LinkedIn profile](https://www.linkedin.com/in/jbacuetes
-), but I did my fair share of dabbling before entering the "real world." I've also worked as:
-
-* A bank teller
-* A server in a retirement home
-* A receptionist in a martial arts studio
-* An office assistant at a garage door installation company
-* A flower delivery girl
-* A librarian's assistant (a.k.a. a putter-back of books)
 
 ## Pictures
 
