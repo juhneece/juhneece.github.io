@@ -52,35 +52,35 @@ $(document).ready(function() {
   }
 });
 
-// silly halloween costume thing
-var halloween_costumes = [
-  'Michael Jackson',
-  'Noah',
-  'Dora the Explorer',
-  'Panda',
-  'Chun Li (Streetfighter)',
-  'Hamster',
-  'Afro Ninja'
+// vacation spots
+var vacations = [
+  'Maldives',
+  'Istanbul',
+  'Patagonia',
+  'Tanzania',
+  'Rwanda',
+  'Philippines',
+
 ];
 $(document).ready(function() {
-  function randCostume() {
-    return halloween_costumes[Math.floor(Math.random() * halloween_costumes.length)];
+  function randVacation() {
+    return vacations[Math.floor(Math.random() * vacations.length)];
   };
 
-  function replaceCostume() {
-    span = $("#halloween_costume");
-  costume = randCostume();
-  oldCostume = span.html();
-  if (costume == oldCostume) {
+  function replaceVacation() {
+    span = $("#vacations");
+  vacation = randVacation();
+  oldVacation = span.html();
+  if (vacation == oldVacation) {
     return;
   }
   duration = 500;
   span.fadeOut(duration, function() {
-    span.html(costume);
+    span.html(vacation);
     span.fadeIn(duration);
   });
   };
 
-  replaceCostume();
-  var derp = setInterval(replaceCostume, 5000);
+  replaceVacation();
+  var derp = setInterval(replaceVacation, 5000);
 });
