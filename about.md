@@ -17,7 +17,7 @@ In May 2017 on Memorial Day weekend, I married [Ben Clark](https://clarkbk.com/a
 
 I've worked at startups like [Yelp](http://www.yelp.com/nyc), [Clover](https://www.clover.com/), [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media), [Rent the Runway](https://www.renttherunway.com/), and [Managed by Q](https://www.managedbyq.com/). I'm currently on the lookout for my next great adventure.
 
-You won't find the following jobs on my résumé or my [LinkedIn profile](https://www.linkedin.com/in/jbacuetes
+You won't find the following jobs on my [résumé](http://files.juhneece.com/resume.pdf) or my [LinkedIn profile](https://www.linkedin.com/in/jbacuetes
 ), but I did my fair share of dabbling before entering the "real world." I've also worked as:
 
 * A bank teller
