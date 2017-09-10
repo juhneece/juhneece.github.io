@@ -7,7 +7,7 @@ style: page
 
 Chances are my name poses a challenge for you, so to start us off on the right foot, here’s a hint: juh-neece buh-kweh-tiss
 
-I grew up in San Diego. You can easily identify me as a West coast transplant by my calm demeanor. My two older sisters are still in California with my adorable nephew & niece, Ethan & Zoë. On the other side of the globe, [my parents](public/img/Brooklyn_Winery_Wedding_Chellise_Michael_Photography0178.JPG) have happily retired in the Philippines.
+I grew up in San Diego. You can easily identify me as a West coast transplant by my calm demeanor. My two [older sisters](public/img/Brooklyn_Winery_Wedding_Chellise_Michael_Photography0185.JPG) are still in California with my adorable nephew & niece, [Ethan & Zoë](public/img/Brooklyn_Winery_Wedding_Chellise_Michael_Photography0190.JPG). On the other side of the globe, [my parents](public/img/Brooklyn_Winery_Wedding_Chellise_Michael_Photography0178.JPG) have happily retired in the Philippines.
 
 In May 2017 on Memorial Day weekend, I married [Ben Clark](https://clarkbk.com/about/). Our family and friends flew in from Georgia, North Carolina, and California to celebrate with us at Brooklyn Winery in Williamsburg. In our [7 years together](https://janiceandben.com/story/), this was the first time our families met.
 
@@ -28,10 +28,11 @@ You won't find the following jobs on my résumé or my [LinkedIn profile](https:
 * A librarian's assistant (a.k.a. a putter-back of books)
 
 
+
 ## Fun facts
 
 * Nicknames: Neece, J-Nice, JB
-* I was the “Mixed Berry” girl in a Dasani Drop ad
+* I was the “Mixed Berry” girl in a [Dasani Drop ad](public/img/Dasani1.jpg)
 * Ben & I have worked together at the same company 3 consecutive times
 * My sisters & I are all named after locally-famous Filipino actresses
 * My handwriting is so small and neat that people almost always mistake it for computer type
