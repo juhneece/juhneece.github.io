@@ -35,7 +35,7 @@ You won't find the following jobs on my résumé or my [LinkedIn profile](https:
 * Ben & I have worked together at the same company 3 consecutive times
 * My sisters & I are all named after locally-famous Filipino actresses
 * My handwriting is so small and neat that people almost always mistake it for computer type
-* Coolest places I've traveled: <span id="halloween_costume" style="display:none">Michael Jackson</span>
+* Coolest places I've traveled: <span id="vacations" style="display:none">Maldives</span>
 
 
 
