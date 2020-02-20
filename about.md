@@ -31,7 +31,7 @@ You won't find the following jobs on my [résumé](http://files.juhneece.com/res
 
 ## Fun facts
 
-* Nicknames: Neece, J-Nice, JB
+* Nicknames: Neece, J-Nice, JB, J
 * I was the “Mixed Berry” girl in a [Dasani Drop ad](public/img/Dasani1.jpg)
 * Ben & I have worked together at the same company 3 consecutive times
 * My sisters & I are all named after locally-famous Filipino actresses
