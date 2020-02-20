@@ -9,13 +9,13 @@ Chances are my name poses a challenge for you, so to start us off on the right f
 
 I grew up in San Diego. You can easily identify me as a West coast transplant by my calm demeanor. My two older [sisters](public/img/Brooklyn_Winery_Wedding_Chellise_Michael_Photography0185.JPG) are still in California with my adorable nephew & niece, [Ethan & Zoë](public/img/Brooklyn_Winery_Wedding_Chellise_Michael_Photography0190.JPG). On the other side of the globe, [my parents](public/img/Brooklyn_Winery_Wedding_Chellise_Michael_Photography0178.JPG) have happily retired in the Philippines.
 
-In May 2017 on Memorial Day weekend, I married [Ben Clark](https://clarkbk.com/about/). Our family and friends flew in from Georgia, North Carolina, and California to celebrate with us at Brooklyn Winery in Williamsburg. In our [7 years together](https://janiceandben.com/story/), this was the first time our families met.
+In May 2017 on Memorial Day weekend, I married [Ben Clark](https://clarkbk.com/about/). Our family and friends flew in from Georgia, North Carolina, and California to celebrate with us at Brooklyn Winery in Williamsburg. In our [10 years together](https://janiceandben.com/story/), this was the first time our families met.
 
 
 
 ## Work
 
-I've worked at startups like [Yelp](http://www.yelp.com/nyc), [Clover](https://www.clover.com/), [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media), [Rent the Runway](https://www.renttherunway.com/), and [Managed by Q](https://www.managedbyq.com/). I'm currently on the lookout for my next great adventure.
+I've worked at startups like [Yelp](http://www.yelp.com/nyc), [Clover](https://www.clover.com/), [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media), [Rent the Runway](https://www.renttherunway.com/), [Managed by Q](https://www.managedbyq.com/), and [Bravely](https://www.workbravely.com/). I'm currently on the lookout for my next great adventure.
 
 You won't find the following jobs on my [résumé](http://files.juhneece.com/resume.pdf) or my [LinkedIn profile](https://www.linkedin.com/in/jbacuetes
 ), but I did my fair share of dabbling before entering the "real world." I've also worked as:
